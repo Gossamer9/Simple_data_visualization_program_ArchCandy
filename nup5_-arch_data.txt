@@ -1,0 +1,191 @@
+
+    L  S  T  A  G
+   / \/ \/ \/ \/ \
+     G  T  V  A  G
+  T
+       S  F  F  T  M
+    \ /\ /\ /\ /\ /
+     G  G  S  G  S
+	 01	 0.592	 PPL	01-21
+
+    A  T  T  G  T
+   / \/ \/ \/ \/ \
+  I  T  I  T  L  L
+   \
+    G  N  G  L  F  T
+     \ /\ /\ /\ /\ /
+      T  T  G  T  G
+	 02	 0.599	 BEPL	 74-95
+
+     A  T  T  G  T
+    / \/ \/ \/ \/ \
+   I  T  I  T  L  L
+  / G
+  \/
+   \  N  G  L  F  T
+    \ /\ /\ /\ /\ /
+     T  T  G  T  G
+	 03	 0.599	 GBPL	 74-95
+
+    L  Q  A  G  T
+   / \/ \/ \/ \/ \
+  G  G  N  L  L  L
+  \
+   S
+  /
+ T  T  T  Q  L  G
+ \ /\ /\ /\ /\ /
+  G  N  S  F  S
+	 04	 0.619	 5 Res Arc	 180-202
+
+    T  G  G  N
+   / \/ \/ \/ \
+  G  S  L  Q  A
+  |
+  T  T  Q  L  G
+   \ /\ /\ /\ /
+   N  S  F  S
+	 05	 0.612	 GBEB	 180-197
+
+     T  G  G  N
+    / \/ \/ \/ \
+   G  S  L  Q  A
+  / T
+  \/
+   \  T  Q  L  G
+    \ /\ /\ /\ /
+     N  S  F  S
+	 06	 0.612	 GBPL	 180-197
+
+    S  L  Q  A  G
+   / \/ \/ \/ \/ \
+     G  G  N  L  L
+  T
+       T  T  Q  L  G
+    \ /\ /\ /\ /\ /
+     G  N  S  F  S
+	 07	 0.592	 PPL	 180-200
+
+    L  Q  A  G  T
+   / \/ \/ \/ \/ \
+  G  G  N  L  L  L
+  |
+  S  G  N  S  F  S
+   \ /\ /\ /\ /\ /
+   T  T  T  Q  L
+	 08	 0.665	 GBEB	 181-202
+
+     L  Q  A  G  T
+    / \/ \/ \/ \/ \
+   G  G  N  L  L  L
+  / S
+  \/
+   \  G  N  S  F  S
+    \ /\ /\ /\ /\ /
+     T  T  T  Q  L
+	 09	 0.665	 GBPL	 181-202
+
+    Q  A  G  T  G  T
+   / \/ \/ \/ \/ \/ \
+  G  N  L  L  L  T  A
+  |
+  L  S  G  N  S  F  S
+   \ /\ /\ /\ /\ /\ /
+   G  T  T  T  Q  L
+	 10	 0.579	 GBEB	 181-206
+
+     Q  A  G  T  G  T
+    / \/ \/ \/ \/ \/ \
+   G  N  L  L  L  T  A
+  / L
+  \/
+   \  S  G  N  S  F  S
+    \ /\ /\ /\ /\ /\ /
+     G  T  T  T  Q  L
+	 11	 0.579	 GBPL	 181-206
+
+    L  Q  A  G  T
+   / \/ \/ \/ \/ \
+     G  N  L  L  L
+  G
+       T  T  T  Q  L
+    \ /\ /\ /\ /\ /
+     S  G  N  S  F
+	 12	 0.729	 PPL	 182-202
+
+    Q  A  G  T  G  T
+   / \/ \/ \/ \/ \/ \
+     N  L  L  L  T  A
+  G
+       G  T  T  T  Q  L
+    \ /\ /\ /\ /\ /\ /
+     L  S  G  N  S  F
+	 13	 0.645	 PPL	 182-206
+
+     A  T  T  G
+    / \/ \/ \/ \
+   T  A  S  A  N
+  / T
+  \/
+   \  L  L  L  N
+    \ /\ /\ /\ /
+     G  T  G  A
+	 14	 0.612	 GBPL	 196-213
+
+    I  R  T  N
+   / \/ \/ \/ \
+  G  Q  N  L  I
+  \
+   N
+  /
+ A  L  L  Q  L
+ \ /\ /\ /\ /
+  A  S  L  K
+	 15	 0.578	 5 Res Arc	 290-308
+
+    I  R  T  N
+   / \/ \/ \/ \
+     Q  N  L  I
+  G
+       A  L  L  Q
+    \ /\ /\ /\ /
+     N  A  S  L
+	 16	 0.733	 PPL	 292-308
+
+    Q  S  G  S  G
+   / \/ \/ \/ \/ \
+  P  P  L  V  F  T
+  \
+   G
+  /
+ T  P  Q  Q  L  A
+ \ /\ /\ /\ /\ /
+  A  Q  Q  T  T
+	 17	 0.629	 5 Res Arc	 468-490
+
+    T  G  N  S
+   / \/ \/ \/ \
+     S  F  F  N
+  S
+       S  F  A  L
+    \ /\ /\ /\ /
+     S  G  G  S
+	 18	 0.588	 PPL	 541-557
+
+    T  S  G  T  G  S
+   / \/ \/ \/ \/ \/ \
+  I  A  A  L  F  V  N
+   \
+    G  N  F  F  S  S  S
+     \ /\ /\ /\ /\ /\ /
+      P  S  N  G  T  S
+	 19	 0.656	 BEPL	 547-572
+
+    T  G  S
+   / \/ \/ \
+     F  V  N
+  L
+       A  A  I
+    \ /\ /\ /
+     G  S  T
+	 20	 0.579	 PPL	 560-572
